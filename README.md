@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RuttonSarker. I'm pursuing my M.Sc Degree in Computational Science at Laurentian University, Canada 🇨🇦 . 
+- 👋 Hi, I’m Rutton Chandra Sarker. I'm pursuing my M.Sc Degree in Computational Science at Laurentian University, Canada 🇨🇦 . 
 - 👀 I'm interested in Data Science, especially Big Data Analytics, Machine Learning, Deep Learning and Natural Language Processing.
 - 🌱 I’m currently learning Data Warehousing and Data Mining techniques. 
 - 📫 Reach me: sarker.rutton@gmail.com
