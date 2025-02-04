@@ -1,7 +1,22 @@
-- 👋 Hi, I’m Rutton Chandra Sarker. I'm pursuing my M.Sc Degree in Computational Science at Laurentian University, Canada 🇨🇦 . 
-- 👀 I'm interested in Data Science, especially Big Data Analytics, Machine Learning, Deep Learning and Natural Language Processing.
-- 🌱 I’m currently learning Data Warehousing and Data Mining techniques. 
-- 📫 Reach me: sarker.rutton@gmail.com
+<h2><strong>Hi, I'm Rutton Chandra Sarker</strong></h2>  
+
+🎓 M.Sc. in Computational Science | Laurentian University, Canada 🇨🇦
+
+🔍 **Passionate about Data Science** with a focus on:  
+- **Big Data Analytics**  
+- **Machine Learning**  
+- **Deep Learning**  
+- **Natural Language Processing (NLP)**  
+- **Large Language Models (LLM)**
+
+🚀 **Currently diving into:**  
+- **Data Mining**: Exploring techniques like clustering, association rule mining, and classification.  
+- **LLMs**: Focusing on fine-tuning models, transformer architectures, and applications in NLP.
+
+🔗 Let's connect!  
+📧 Email: [sarker.rutton@gmail.com](mailto:sarker.rutton@gmail.com)  
+📂 GitHub: [github.com/ruttonchandra](https://github.com/ruttonchandra)
+
 
    ![ezgif com-crop](https://user-images.githubusercontent.com/59698649/222917196-63c89a98-c001-4a86-a584-6a5096e6cfef.gif)
 
