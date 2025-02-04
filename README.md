@@ -15,7 +15,7 @@
 
 🔗 Let's connect!  
 📧 Email: [sarker.rutton@gmail.com](mailto:sarker.rutton@gmail.com)  
-📂 HackerRank: (https://www.hackerrank.com/profile/RuttonSarker)
+📂 HackerRank: https://www.hackerrank.com/profile/RuttonSarker
 
 
    ![ezgif com-crop](https://user-images.githubusercontent.com/59698649/222917196-63c89a98-c001-4a86-a584-6a5096e6cfef.gif)
