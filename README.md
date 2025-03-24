@@ -1,8 +1,8 @@
 <h2><strong>Hi, I'm Rutton Chandra Sarker</strong></h2>  
 
-🎓 M.Sc. in Computational Science (In Progress) | Laurentian University, Canada 🇨🇦
+🎓 **M.Sc. in Computational Science (In Progress) | Laurentian University, Canada** 🇨🇦
 
-🎓 B.Sc. in Computer Science & Engineering | North South University, Bangladesh 🇧🇩
+🎓 **B.Sc. in Computer Science & Engineering | North South University, Bangladesh** 🇧🇩
 
 🔍 **Passionate about Data Science** with a focus on:  
 - **Big Data Analytics**  
