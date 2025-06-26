@@ -13,7 +13,7 @@
 
 🛠️ **Technical Skills**
 
- - **Programming Languages: Python, R, SQL, Java, C++**
+ - **Programming Languages: Python, R, Java, C++**
 
   - **Data Science & ML: Scikit-learn, TensorFlow, PyTorch**
 
