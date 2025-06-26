@@ -5,26 +5,25 @@
 🎓 **B.Sc. in Computer Science & Engineering | North South University, Bangladesh** 🇧🇩
 
 🔍 **Passionate about Data Science** with a focus on:  
-- **Big Data Analytics**  
-- **Machine Learning**  
-- **Deep Learning**  
-- **Natural Language Processing (NLP)**  
-- **Large Language Models (LLM)**
+     - **Big Data Analytics**  
+     - **Machine Learning**  
+     - **Deep Learning**  
+     - **Natural Language Processing (NLP)**  
+     - **Large Language Models (LLM)**
 
-🛠️ **Technical Skills**
-
-  - **Programming Languages:** Python, R, Java, C++
-  - **Data Science & ML:** Scikit-learn, TensorFlow, PyTorch
-  - **NLP & LLM Tools:** Hugging Face Transformers, spaCy, NLTK
-  - **Big Data:** Apache Spark, Hadoop, Hive
-  - **Databases:** MySQL, PostgreSQL, MongoDB
-  - **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI
-  - **Tools & Platforms:** Jupyter Notebook, Google Colab, VS Code, Git, Docker
-  - **Cloud Services:** AWS (S3, EC2, SageMaker), Google Cloud Platform
+🛠️ **Technical Skills:**
+     - **Programming Languages:** Python, R, Java, C++
+     - **Data Science & ML:** Scikit-learn, TensorFlow, PyTorch
+     - **NLP & LLM Tools:** Hugging Face Transformers, spaCy, NLTK
+     - **Big Data:** Apache Spark, Hadoop, Hive
+     - **Databases:** MySQL, PostgreSQL, MongoDB
+     - **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI
+     - **Tools & Platforms:** Jupyter Notebook, Google Colab, VS Code, Git, Docker
+     - **Cloud Services:** AWS (S3, EC2, SageMaker), Google Cloud Platform
 
 🚀 **Currently diving into:**  
-- **Data Mining**: Exploring techniques like clustering, association rule mining, and classification.  
-- **LLMs**: Focusing on fine-tuning models, transformer architectures, and applications in NLP.
+    - **Data Mining**: Exploring techniques like clustering, association rule mining, and classification.  
+    - **LLMs**: Focusing on fine-tuning models, transformer architectures, and applications in NLP.
 
 🔗 Let's connect!  
 📧 Email: [sarker.rutton@gmail.com](mailto:sarker.rutton@gmail.com)  
