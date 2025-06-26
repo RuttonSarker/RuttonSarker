@@ -13,20 +13,13 @@
 
 🛠️ **Technical Skills**
 
- - **Programming Languages:** Python, R, Java, C++
-
+  - **Programming Languages:** Python, R, Java, C++
   - **Data Science & ML:** Scikit-learn, TensorFlow, PyTorch
-
   - **NLP & LLM Tools:** Hugging Face Transformers, spaCy, NLTK
-
   - **Big Data:** Apache Spark, Hadoop, Hive
-
   - **Databases:** MySQL, PostgreSQL, MongoDB
-
   - **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI
-
   - **Tools & Platforms:** Jupyter Notebook, Google Colab, VS Code, Git, Docker
-
   - **Cloud Services:** AWS (S3, EC2, SageMaker), Google Cloud Platform
 
 🚀 **Currently diving into:**  
