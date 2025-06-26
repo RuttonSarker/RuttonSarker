@@ -13,21 +13,21 @@
 
 🛠️ **Technical Skills**
 
- - **Programming Languages: Python, R, Java, C++**
+ - **Programming Languages:** Python, R, Java, C++
 
-  - **Data Science & ML: Scikit-learn, TensorFlow, PyTorch**
+  - **Data Science & ML:** Scikit-learn, TensorFlow, PyTorch
 
-  - **NLP & LLM Tools: Hugging Face Transformers, spaCy, NLTK**
+  - **NLP & LLM Tools:** Hugging Face Transformers, spaCy, NLTK
 
-  - **Big Data: Apache Spark, Hadoop, Hive**
+  - **Big Data:** Apache Spark, Hadoop, Hive
 
-  - **Databases: MySQL, PostgreSQL, MongoDB**
+  - **Databases:** MySQL, PostgreSQL, MongoDB
 
-  - **Data Visualization: Matplotlib, Seaborn, Plotly, Power BI**
+  - **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI
 
-  - **Tools & Platforms: Jupyter Notebook, Google Colab, VS Code, Git, Docker**
+  - **Tools & Platforms:** Jupyter Notebook, Google Colab, VS Code, Git, Docker
 
-  - **Cloud Services: AWS (S3, EC2, SageMaker), Google Cloud Platform**
+  - **Cloud Services:** AWS (S3, EC2, SageMaker), Google Cloud Platform
 
 🚀 **Currently diving into:**  
 - **Data Mining**: Exploring techniques like clustering, association rule mining, and classification.  
