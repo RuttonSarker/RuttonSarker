@@ -1,11 +1,11 @@
 <h2><strong>Hi, I'm Rutton Chandra Sarker</strong></h2>  
 
 🎓 **M.Sc. in Computational Science (In Progress) | Laurentian University, Canada** 🇨🇦
-- **Courses**: Machine/Deep Learning, ML in Cybersecurity, Autonomous Mobile Robotics, Knowledge Representation & Reasoning, Business Statistics
+- **Courses**: Data Mining, Machine/Deep Learning, ML in Cybersecurity, Autonomous Mobile Robotics, Knowledge Representation & Reasoning, Research Methods, Business Statistics
 
 
 🎓 **B.Sc. in Computer Science & Engineering | North South University, Bangladesh** 🇧🇩
-- **Major Course**: Artificial Intelligence, Machine Learning
+- **Major Courses**: Artificial Intelligence, Machine Learning
 
 🔍 **Passionate about Data Science** with a focus on:  
 - **Big Data Analytics**  
