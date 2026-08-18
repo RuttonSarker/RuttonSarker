@@ -1,6 +1,6 @@
 <h2><strong>Hi, I'm Rutton Chandra Sarker</strong></h2>  
 
-🎓 **M.Sc. in Computational Science (In Progress) | Laurentian University, Canada** 🇨🇦
+🎓 **M.Sc. in Computational Sciences | Laurentian University, Canada** 🇨🇦
 - **Courses**: Data Mining, Machine/Deep Learning, ML in Cybersecurity, Cloud Technologies, Autonomous Mobile Robotics, Knowledge Representation & Reasoning, Research Methods, Business Statistics, Project Management for Scientist.
 
 
@@ -8,11 +8,9 @@
 - **Major Courses**: Artificial Intelligence, Machine Learning
 
 🔍 **Passionate about Data Science** with a focus on:  
-- **Big Data Analytics**  
-- **Machine Learning**  
-- **Deep Learning**  
+- **Large Language Model (LLM)**  
+- **Machine Learning & Deep Learning**   
 - **Natural Language Processing (NLP)**  
-- **Large Language Models (LLM)**
 
 🛠️ **Technical Skills:**
 - **Programming Languages:** Python, R, Java, C++
