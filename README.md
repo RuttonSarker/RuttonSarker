@@ -17,16 +17,16 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI/ML engineer with a Master's in Computational Science, passionate about building intelligent systems. My work centers on:
+AI/ML engineer with an M.Sc. in Computational Science, focused on designing, building, and deploying intelligent systems. I work across the full lifecycle, from data preparation and model development to evaluation and production.
 
-- 🤖 **Large Language Models (LLMs)**
-- 🧠 **Machine Learning & Deep Learning**
-- 💬 **Natural Language Processing (NLP)**
+- 🤖 **Large Language Models:** fine-tuning, transformer architectures, and LLM-powered applications
+- 🧠 **Machine Learning & Deep Learning:** model design, training, and evaluation
+- ⚙️ **AI/ML Systems:** scalable, end-to-end pipelines and deployment
 
-## 🚀 Currently Exploring
+## 🚀 Current Focus
 
-- **LLMs:** fine-tuning, transformer architectures, and NLP applications
-- **Data Mining:** clustering, association rule mining, and classification
+- **LLM Engineering:** fine-tuning and adapting transformer models for applied use cases
+- **RAG & AI Agents:** retrieval-augmented generation and agentic workflows built on LLMs
 
 ## 🎓 Education
 
@@ -42,12 +42,12 @@ I'm an AI/ML engineer with a Master's in Computational Science, passionate about
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) |
 | **ML / DL** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
-| **NLP / LLM** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) spaCy · NLTK |
+| **NLP / LLM** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) |
 | **Big Data** | ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black) Hive |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
 | **Visualization** | Matplotlib · Seaborn · Plotly · Power BI |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white) (S3, EC2, SageMaker) |
-| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) Jupyter · Google Colab · VS Code |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59698649/222917196-63c89a98-c001-4a86-a584-6a5096e6cfef.gif" alt="Banner" />
