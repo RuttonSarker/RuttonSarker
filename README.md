@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rutton Chandra Sarker 👋</h1>
 
-<h3 align="center">AAI/ML Engineer | Agentic | LLM Systems</h3>
+<h3 align="center">AI/ML Engineer | Agentic | LLM Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RuttonSarker&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/rutton-sarker"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sarker.rutton@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.hackerrank.com/profile/RuttonSarker"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
@@ -48,6 +49,16 @@ I'm an AI/ML engineer with a Master's in Computational Science, passionate about
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white) (S3, EC2, SageMaker) |
 | **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) Jupyter · Google Colab · VS Code |
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59698649/222917196-63c89a98-c001-4a86-a584-6a5096e6cfef.gif" alt="Banner" />
+</p>
+
+
+## 🤝 Let's Connect
+
+Open to conversations about AI/ML, research, and collaboration.
+Email: [sarker.rutton@gmail.com](mailto:sarker.rutton@gmail.com)
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -55,10 +66,5 @@ I'm an AI/ML engineer with a Master's in Computational Science, passionate about
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuttonSarker&layout=compact" alt="Top languages" />
 </p>
 
-## 🤝 Let's Connect
 
-I'm always open to discussing AI/ML, research, and collaboration opportunities. Reach me at [sarker.rutton@gmail.com](mailto:sarker.rutton@gmail.com).
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/59698649/222917196-63c89a98-c001-4a86-a584-6a5096e6cfef.gif" alt="Banner" />
-</p>
