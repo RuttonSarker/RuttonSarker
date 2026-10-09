@@ -51,8 +51,8 @@ I'm an AI/ML engineer with a Master's in Computational Science, passionate about
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RuttonSarker&show_icons=true&theme=default" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuttonSarker&layout=compact" alt="Top languages" />
 </p>
 
 ## 🤝 Let's Connect
