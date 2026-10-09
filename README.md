@@ -3,8 +3,8 @@
 <h3 align="center">AI/ML Engineer · LLMs · NLP · Deep Learning</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat&logo=github&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=RuttonSarker&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/RuttonSarker?style=flat&logo=github&label=Followers" alt="Followers" />
 </p>
 
 <p align="center">
